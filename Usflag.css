@@ -1,0 +1,52 @@
+.flag{
+display: flex;
+justify-content: center;
+width: 100px;
+height: 100px;
+}
+
+.stripe{
+display: flex;
+justify-content: center;
+width: 100px;
+height: 100px;
+}
+
+.canton {
+display: flex;
+justify-content: center;
+width: 100px;
+height: 100px;
+background-color: #3C3B6E;
+}
+
+
+/* Stripe  */
+.stripe {
+  height: 100px;
+}
+ 
+/* Red Stripe  */
+.stripe{
+  background-color: #B22234; 
+}
+/* White Stripe */
+.stripe{
+  background-color: #FFFFFF;
+}
+
+
+/* Arrangement 1 */
+.star-row{
+justify-content: space-evenly;
+}
+
+/* Arrangement 2 */
+.star-row{
+    justify-content: space-evenly;
+    }
+/* Star */
+.star {
+  display: block;
+  color: #FFFFFF;
+}
